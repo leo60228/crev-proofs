@@ -53,3 +53,30 @@ comment: |-
 _hB921bS8_XH2NdGVrQQtwKy05XLIBH1bqal0wmURxpSvs-i3-z1AE46-Czk-mg5WuzFTrddPLhyDyipefm5Cg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-06T10:54:03.775628383-05:00"
+from:
+  id-type: crev
+  id: 2LuQSTppPubecRKRky5i_owgDcpbZhuFE3iXyLky5w4
+  url: "https://github.com/leo60228/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: maybe-uninit
+  version: 2.0.0
+  revision: 758af09f0823415ec6431831c5f28bde98da4c29
+  digest: PBDVlaYNDZFuxgD2iQsAZjDVLZYf2Ux3VJ1Wj4pzr2M
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+alternatives:
+  - source: "https://rust-lang.org"
+    name: core
+comment: |-
+  This crate is copy/pasted from core::mem::MaybeUninit for older rustc.
+----- SIGN CREV PROOF -----
+BxfZ5XR-Bke2htVrJYZXgYKfi22CojMwgelxu5I2cNXM0wUHyes2F6CEKTjtAcHNYJiojcnPZw2frLj5m406BQ
+----- END CREV PROOF -----
+
