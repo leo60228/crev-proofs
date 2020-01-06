@@ -128,3 +128,27 @@ comment: |-
 DyThQz5MOm7M-ncWUJ62Y7VWoOtplppEExEjwQvnGkmoJUyGwONbxjD6Ojfsh2Khg_MDT1ZwOplvFvlm5gV7Aw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-06T11:38:23.525653984-05:00"
+from:
+  id-type: crev
+  id: 2LuQSTppPubecRKRky5i_owgDcpbZhuFE3iXyLky5w4
+  url: "https://github.com/leo60228/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: const-random-macro
+  version: 0.1.6
+  revision: 2e9b467dcc73235472893b776baf7b05abe7a7df
+  digest: U4Kg3KBu-6w_1n-4QOdJbLTbTOH8XmKqdDgoJzltfsc
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  Very simple and minimal crate
+----- SIGN CREV PROOF -----
+b8WJ0Fwfn6uGb5Ks7Um_swrK1izJV5PeWbKWLdjuvGdc4HfAg-qRSd0RlDSSfSB8AeV8m_d7miMnpuYknq51BQ
+----- END CREV PROOF -----
+
