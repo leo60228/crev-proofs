@@ -1,0 +1,27 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-06T09:49:02.276577658-05:00"
+from:
+  id-type: crev
+  id: 2LuQSTppPubecRKRky5i_owgDcpbZhuFE3iXyLky5w4
+  url: "https://github.com/leo60228/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: pin-utils
+  version: 0.1.0-alpha.4
+  revision: 9507af15b4fd0c3a78f067664be662844e409efe
+  digest: KVSmRO6amB1sg8n5H5dQohRlVQsPao0bl8zSw3MVRhA
+review:
+  thoroughness: low
+  understanding: medium
+  rating: strong
+alternatives:
+  - source: "https://rust-lang.org"
+    name: std
+comment: |-
+  Very small crate, has useful macros
+----- SIGN CREV PROOF -----
+RIlX7871-weeh3LCPm5-NOuQQ9nEDNa75Z1dW1Eq4fHVwJxfQPQMR9XHjfcHpAuwZPOJxMxwCKd_HhDtNHHCAw
+----- END CREV PROOF -----
+
