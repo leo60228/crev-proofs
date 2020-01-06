@@ -104,3 +104,27 @@ comment: |-
 kpPFlBzQfIWRZyT2sQTBXnluVHoi2d10-KIBWL8jfCNfd7l2YvWAXLaJcvdTy6HnMXCR5lDJ1RMC3yf5UgQrAQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-06T11:37:36.987486889-05:00"
+from:
+  id-type: crev
+  id: 2LuQSTppPubecRKRky5i_owgDcpbZhuFE3iXyLky5w4
+  url: "https://github.com/leo60228/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: const-random
+  version: 0.1.6
+  revision: 2e9b467dcc73235472893b776baf7b05abe7a7df
+  digest: PF9qdAxPEf98uAW4kWClyUOEERIbUPrFqjjilA8oj84
+review:
+  thoroughness: low
+  understanding: high
+  rating: positive
+comment: |-
+  proc-macro-hack wrapper crate
+----- SIGN CREV PROOF -----
+DyThQz5MOm7M-ncWUJ62Y7VWoOtplppEExEjwQvnGkmoJUyGwONbxjD6Ojfsh2Khg_MDT1ZwOplvFvlm5gV7Aw
+----- END CREV PROOF -----
+
