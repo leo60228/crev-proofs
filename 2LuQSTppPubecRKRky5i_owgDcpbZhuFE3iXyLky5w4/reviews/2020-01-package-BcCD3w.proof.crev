@@ -80,3 +80,27 @@ comment: |-
 BxfZ5XR-Bke2htVrJYZXgYKfi22CojMwgelxu5I2cNXM0wUHyes2F6CEKTjtAcHNYJiojcnPZw2frLj5m406BQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-06T11:02:52.653076410-05:00"
+from:
+  id-type: crev
+  id: 2LuQSTppPubecRKRky5i_owgDcpbZhuFE3iXyLky5w4
+  url: "https://github.com/leo60228/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: pin-project-lite
+  version: 0.1.2
+  revision: 5565797d600e19346d9c7eda2bdb3cb4f12209f1
+  digest: eoglHbh7WiSU1MIKUtTrOMa13wByTzvr1o_Ce_WU2Rs
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  Simpler version of pin-project
+----- SIGN CREV PROOF -----
+kpPFlBzQfIWRZyT2sQTBXnluVHoi2d10-KIBWL8jfCNfd7l2YvWAXLaJcvdTy6HnMXCR5lDJ1RMC3yf5UgQrAQ
+----- END CREV PROOF -----
+
