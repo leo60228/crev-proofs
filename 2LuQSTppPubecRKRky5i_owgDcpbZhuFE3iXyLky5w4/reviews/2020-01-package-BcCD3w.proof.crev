@@ -152,3 +152,31 @@ comment: |-
 b8WJ0Fwfn6uGb5Ks7Um_swrK1izJV5PeWbKWLdjuvGdc4HfAg-qRSd0RlDSSfSB8AeV8m_d7miMnpuYknq51BQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-06T11:42:10.758944591-05:00"
+from:
+  id-type: crev
+  id: 2LuQSTppPubecRKRky5i_owgDcpbZhuFE3iXyLky5w4
+  url: "https://github.com/leo60228/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: memoffset
+  version: 0.5.3
+  revision: c0ad55cb4a2f8e972864036d9cff52a6f4b0d204
+  digest: BCshmvQSB6-IO3VxivCLfchRVTDXK7bRfoH1hHiLYXw
+review:
+  thoroughness: low
+  understanding: medium
+  rating: neutral
+issues:
+  - id: "24"
+    severity: low
+    comment: ""
+comment: |-
+  Simple crate. Triggers UB but there is no workaround on current Rust.
+----- SIGN CREV PROOF -----
+R8UYTL8syze3gdhX5m_W4HUrnRd8FZK2mmk4b0PNkvy_2fITO0CHI8rpkyV0Yt8ZMEEd1NRd75dY7wvuVIcFAg
+----- END CREV PROOF -----
+
